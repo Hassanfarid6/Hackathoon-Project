@@ -1,8 +1,5 @@
 body
 {
-    /* margin: 0%; */
-    /* display: grid;
-    justify-items: center; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,7 +13,7 @@ body
 
 {
     flex: 0 0 30%;
-    background-color:#003366;
+    background-color:#033e1d;
     color: #fff;
     padding: 40px 25px;
     text-align: center;
@@ -130,7 +127,7 @@ body
 /* Button Style */
 #toggle-skills 
 {
-    background-color: #0c417d;
+    background-color:#033e1d;;
     color: #fff;
     border-color: rgb(255, 255, 255);
     padding: 12px 25px;
